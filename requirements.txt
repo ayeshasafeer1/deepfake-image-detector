@@ -1,0 +1,11 @@
+# CPU-only PyTorch wheels (much smaller than the default CUDA build on Linux).
+# If installing fails, delete this first line and use the default torch wheels.
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit>=1.35
+torch>=2.2
+torchvision>=0.17
+numpy
+pandas
+pillow
+scikit-image
+matplotlib

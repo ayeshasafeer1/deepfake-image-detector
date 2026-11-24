@@ -1,0 +1,43 @@
+[server]
+maxUploadSize = 20          # MB per file
+
+[browser]
+gatherUsageStats = false
+
+# Dark dashboard palette. Teal is the accent for focus, selection, and controls.
+# Widget borders, radius, and type scale come from Streamlit's theme system.
+[theme]
+base = "dark"
+primaryColor = "#14B8A6"
+backgroundColor = "#0B1220"
+secondaryBackgroundColor = "#162033"
+textColor = "#E6EDF5"
+linkColor = "#5EEAD4"
+borderColor = "#2A3B52"
+dataframeBorderColor = "#2A3B52"
+dataframeHeaderBackgroundColor = "#162033"
+dataframeHeaderTextColor = "#99F6E4"
+codeTextColor = "#D7FBF6"
+codeBackgroundColor = "#101826"
+font = "sans-serif"
+baseFontSize = 16
+baseRadius = "0.8rem"
+buttonRadius = "0.65rem"
+showWidgetBorder = true
+showSidebarBorder = true
+headingFontSizes = ["2.15rem", "1.45rem", "1.2rem"]
+headingFontWeights = [600, 600, 600]
+metricValueFontSize = "1.7rem"
+metricValueFontWeight = 600
+paddingTop = "1.35rem"
+paddingBottom = "2.5rem"
+chartCategoricalColors = ["#2DD4BF", "#7DD3FC"]
+
+[theme.sidebar]
+primaryColor = "#14B8A6"
+backgroundColor = "#0E1726"
+secondaryBackgroundColor = "#17233A"
+borderColor = "#234048"
+headingFontSizes = ["1.15rem", "1rem", "0.95rem"]
+paddingTop = "0.85rem"
+paddingBottom = "1.5rem"
