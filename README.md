@@ -70,12 +70,12 @@ Navigate into the project folder:
 cd deepfake-image-detector
 ```
 
-**Step 2: Create a Virtual Environment
+**Step 2: Create a Virtual Environment**
 ```bash
 python -m venv .venv
 ```
 
-**Step 3: Activate the Virtual Environment
+**Step 3: Activate the Virtual Environment**
 ```bash
 .venv\Scripts\activate
 
