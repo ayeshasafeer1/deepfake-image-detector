@@ -6,8 +6,8 @@
 
 **Team Members:**
 
-Ayesha Safeer – 01-134242-031
-Laiba Zainab – 01-134242-058
+- Ayesha Safeer – 01-134242-031
+- Laiba Zainab – 01-134242-058
 
 ## 2. Project Description
 
