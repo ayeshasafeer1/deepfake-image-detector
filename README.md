@@ -125,6 +125,8 @@ The application displays the prediction and related analysis for each uploaded i
 
 **GitHub Repository:** https://github.com/ayeshasafeer1/deepfake-image-detector
 
+**Training notebook**: https://colab.research.google.com/drive/1igjPtNLr98wQ1XpCcDM4lyJhvZTcdkAT?usp=sharing
+
 ## 6. Project Files and Folder Structure
 
 | File/Folder | Purpose |
